@@ -1,0 +1,9 @@
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\bin\Debug\ComputerScienceCoursesSystem.exe
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\bin\Debug\ComputerScienceCoursesSystem.pdb
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csprojAssemblyReference.cache
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.frmMain.resources
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.Properties.Resources.resources
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csproj.GenerateResource.cache
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csproj.CoreCompileInputs.cache
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.exe
+C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.pdb
