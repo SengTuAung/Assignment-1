@@ -21,13 +21,15 @@ namespace ComputerScienceCoursesSystem
         /// <param name="courseAbbrNbr"></param>
         /// <param name="name"></param>
         /// <param name="age"></param>
+        /// 
+       //3-1-2021 Saung NEW 1L:Constructor for Student and initializing strings
         public Student(string courseAbbrNbr, string name, int age) {
             this.courseAbbrNbr = courseAbbrNbr;
             this.name = name;
             this.age = age;
         }
 
-
+        //3-1-2021 Saung NEW 6L: get and set CourseAbbrNbr
         public string CourseAbbrNbr
         {
             get
@@ -40,7 +42,7 @@ namespace ComputerScienceCoursesSystem
                 courseAbbrNbr = value;
             }
         }
-
+        //3-1-2021 Saung NEW 6L: get and set Name
         public string Name
         {
             get
@@ -53,7 +55,7 @@ namespace ComputerScienceCoursesSystem
                 name = value;
             }
         }
-
+        //3-1-2021 Saung NEW 6L: get and set Age
         public int Age
         {
             get

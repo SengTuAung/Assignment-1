@@ -1,9 +1,9 @@
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\bin\Debug\ComputerScienceCoursesSystem.exe
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\bin\Debug\ComputerScienceCoursesSystem.pdb
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csprojAssemblyReference.cache
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.frmMain.resources
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.Properties.Resources.resources
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csproj.GenerateResource.cache
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csproj.CoreCompileInputs.cache
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.exe
-C:\Users\Seng Tu Aung\Downloads\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.pdb
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\bin\Debug\ComputerScienceCoursesSystem.exe
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\bin\Debug\ComputerScienceCoursesSystem.pdb
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csprojAssemblyReference.cache
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.frmMain.resources
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.Properties.Resources.resources
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csproj.GenerateResource.cache
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.csproj.CoreCompileInputs.cache
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.exe
+C:\ULV\Spring 2021\CMPS 480\Assignment 1\ComputerScienceCoursesSystem\ComputerScienceCoursesSystem\obj\Debug\ComputerScienceCoursesSystem.pdb
